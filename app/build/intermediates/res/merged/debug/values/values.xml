@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="advance_setting_item_bg">#fff8f8f8</color>
+    <color name="light_blue">#33b5e5</color>
+    <color name="popup_title_color">#ffc9cdd1</color>
+    <color name="textdec">#f18c14</color>
+    <color name="transparent">#00000000</color>
+    <string name="app_name">Wifi</string>
+    <string name="cancel">取消</string>
+    <string name="conn_status">连接状态</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">忘记</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ip_address">IP地址</string>
+    <string name="menu_settings">Settings</string>
+    <string name="password">密码</string>
+    <string name="security_level">安全性</string>
+    <string name="show_password">显示密码</string>
+    <string name="signal_strength">信号强度</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">#00000000</item>
+    </style>
+    <style name="PopDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

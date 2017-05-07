@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\butn_close.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-mdpi\\butn_close.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\butn_open.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-mdpi\\butn_open.png"
+    }
+]

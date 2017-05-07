@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi04.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\wifi04.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi01.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\wifi01.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\load.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi03.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\wifi03.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dark_header_title.9.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\dark_header_title.9.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi05.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\wifi05.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi02.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\wifi02.png"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_docomo.png",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_docomo.png"
+    }
+]

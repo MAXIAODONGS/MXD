@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testlayout.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\testlayout.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_info_item.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\wifi_info_item.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_wifi_conn.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\view_wifi_conn.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_wifi_status.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\view_wifi_status.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\registerlayout.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\registerlayout.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_list.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\activity_wifi_list.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_top_bar.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\layout\\view_top_bar.xml"
+    }
+]

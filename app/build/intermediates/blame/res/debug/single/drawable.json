@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable\\shape_dialog.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_ver_black_1_dp.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable\\line_ver_black_1_dp.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_hor_blue_5_dp.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable\\line_hor_blue_5_dp.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_transparent_yellow.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable\\bg_transparent_yellow.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_butn_toggle.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable\\selector_butn_toggle.xml"
+    },
+    {
+        "merged": "D:\\WifiDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_hor_black_2_dp.xml",
+        "source": "D:\\WifiDemo\\app\\src\\main\\res\\drawable\\line_hor_black_2_dp.xml"
+    }
+]
